@@ -1,8 +1,8 @@
 # miguelzvd-claude-code-plugins
 
-Marketplace único dos plugins do Miguelzvd para o Claude Code.
+One marketplace for all of Miguelzvd's Claude Code plugins.
 
-## Instalar
+## Install
 
 ```
 /plugin marketplace add Miguelzvd/miguelzvd-claude-code-plugins
@@ -13,8 +13,8 @@ Marketplace único dos plugins do Miguelzvd para o Claude Code.
 
 ## Plugins
 
-- `usage-band`: barras dos limites de 5h e 7d e do contexto, no rodapé.
-- `chat-reply`: selecione texto no terminal e um botão de resposta cita o trecho.
-- `filewatch`: árvore de arquivos com status do git e atividade do Claude (fork de Kurt Buhler).
+- `usage-band`: bars for the 5-hour and 7-day rate limits and the context size, in the footer.
+- `chat-reply`: select text in the terminal and a reply button quotes it.
+- `filewatch`: file tree with git status and Claude's activity (fork of Kurt Buhler's).
 
-Cada plugin vive no seu próprio repo; este só os lista.
+Each plugin lives in its own repo. This one only lists them.

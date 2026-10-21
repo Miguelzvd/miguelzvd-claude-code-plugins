@@ -2,7 +2,7 @@
   "name": "claude-code-miguelzvd",
   "owner": { "name": "Miguelzvd" },
   "metadata": {
-    "description": "Plugins e mods do Miguelzvd para o Claude Code, num marketplace só"
+    "description": "Miguelzvd's Claude Code plugins and mods in a single marketplace"
   },
   "plugins": [
     {
