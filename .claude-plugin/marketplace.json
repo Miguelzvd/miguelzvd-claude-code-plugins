@@ -1,0 +1,24 @@
+{
+  "name": "miguelzvd-plugins",
+  "owner": { "name": "Miguelzvd" },
+  "metadata": {
+    "description": "Plugins e mods do Miguelzvd para o Claude Code, num marketplace só"
+  },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": { "source": "github", "repo": "Miguelzvd/claude-code-usage-band" },
+      "description": "Live bars of the 5-hour and 7-day rate limits left, in the footer under the prompt"
+    },
+    {
+      "name": "chat-reply",
+      "source": { "source": "github", "repo": "Miguelzvd/claude-code-chat-reply" },
+      "description": "Select text in the terminal and a reply button appears above the prompt to quote it."
+    },
+    {
+      "name": "filewatch",
+      "source": { "source": "github", "repo": "Miguelzvd/claude-code-filewatch" },
+      "description": "File tree of the session cwd with git status, lines changed, shimmer on files Claude touches and its git activity"
+    }
+  ]
+}
