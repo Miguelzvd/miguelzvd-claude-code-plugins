@@ -1,11 +1,11 @@
-# claude-code-plugins
+# miguelzvd-claude-code-plugins
 
 Marketplace único dos plugins do Miguelzvd para o Claude Code.
 
 ## Instalar
 
 ```
-/plugin marketplace add Miguelzvd/claude-code-plugins
+/plugin marketplace add Miguelzvd/miguelzvd-claude-code-plugins
 /plugin install usage-band@claude-code-miguelzvd
 /plugin install chat-reply@claude-code-miguelzvd
 /plugin install filewatch@claude-code-miguelzvd
