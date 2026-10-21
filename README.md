@@ -6,9 +6,9 @@ Marketplace único dos plugins do Miguelzvd para o Claude Code.
 
 ```
 /plugin marketplace add Miguelzvd/claude-code-plugins
-/plugin install usage-band@miguelzvd-plugins
-/plugin install chat-reply@miguelzvd-plugins
-/plugin install filewatch@miguelzvd-plugins
+/plugin install usage-band@claude-code-miguelzvd
+/plugin install chat-reply@claude-code-miguelzvd
+/plugin install filewatch@claude-code-miguelzvd
 ```
 
 ## Plugins
