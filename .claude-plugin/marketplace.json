@@ -19,6 +19,11 @@
       "name": "filewatch",
       "source": { "source": "github", "repo": "Miguelzvd/claude-code-filewatch" },
       "description": "File tree of the session cwd with git status, lines changed, shimmer on files Claude touches and its git activity"
+    },
+    {
+      "name": "git-confirm",
+      "source": { "source": "github", "repo": "Miguelzvd/claude-code-git-confirm" },
+      "description": "Asks before Claude runs the git commands you pick; /git-confirm opens a pane to pick them"
     }
   ]
 }
